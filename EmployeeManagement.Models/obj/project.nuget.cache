@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4yAuJs3yHtSOI7D8j5QuHsS5Gk4/D4WhzysLoDOw0sqKMRnZGD0jMCeCmT1yiS2pEiXfFw4vVnuesG803vS68w==",
+  "success": true,
+  "projectFilePath": "C:\\MyJavaProjects\\Blazor\\BlazorTutorial\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Venci\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0-preview.6.20305.6\\system.componentmodel.annotations.5.0.0-preview.6.20305.6.nupkg.sha512",
+    "C:\\Users\\Venci\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

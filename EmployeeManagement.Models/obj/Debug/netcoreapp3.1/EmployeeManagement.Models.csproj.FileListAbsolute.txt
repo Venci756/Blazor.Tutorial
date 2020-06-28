@@ -1,0 +1,9 @@
+C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagement.Models\bin\Debug\netcoreapp3.1\EmployeeManagement.Models.deps.json
+C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagement.Models\bin\Debug\netcoreapp3.1\EmployeeManagement.Models.dll
+C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagement.Models\bin\Debug\netcoreapp3.1\EmployeeManagement.Models.pdb
+C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagement.Models.csprojAssemblyReference.cache
+C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagement.Models.AssemblyInfoInputs.cache
+C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagement.Models.AssemblyInfo.cs
+C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagement.Models.csproj.CoreCompileInputs.cache
+C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagement.Models.dll
+C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagement.Models.pdb
