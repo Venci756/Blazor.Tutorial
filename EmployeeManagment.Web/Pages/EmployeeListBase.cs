@@ -14,6 +14,8 @@ namespace EmployeeManagment.Web.Pages
     {
         [Inject] 
         public IEmployeeService EmployeeService { get; set; }
+
+        public bool ShowFooter { get; set; } = true;
         
         public IEnumerable<Employee> Employees { get; set; }
 
@@ -22,6 +24,19 @@ namespace EmployeeManagment.Web.Pages
             Employees = (await EmployeeService.GetEmployees()).ToList();
         }
 
+        public int SelectedEmployeesCount { get; set; } = 0;
+
+        protected void EmployeeSelectionChanged(bool isSelected)
+        {
+            if (isSelected)
+            {
+                SelectedEmployeesCount++;
+            }
+            else
+            {
+                SelectedEmployeesCount--;
+            }
+        }
         // private void LoadEmployees()
         // {
         //     Thread.Sleep(5000);
