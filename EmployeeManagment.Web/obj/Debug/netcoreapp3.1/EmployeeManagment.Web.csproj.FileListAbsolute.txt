@@ -57,3 +57,5 @@ C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\obj\Debug\netcorea
 C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\obj\Debug\netcoreapp3.1\Razor\Pages\DataBindingDemo2.razor.g.cs
 C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\DisplayEmployee.razor.g.cs
 C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\obj\Debug\netcoreapp3.1\Razor\Pages\DisplayEmployee.razor.g.cs
+C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditEmployee.razor.g.cs
+C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\obj\Debug\netcoreapp3.1\Razor\Pages\EditEmployee.razor.g.cs
