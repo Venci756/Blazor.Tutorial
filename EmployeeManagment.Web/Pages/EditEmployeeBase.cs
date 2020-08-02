@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using EmployeeManagement.Models;
@@ -19,7 +20,7 @@ namespace EmployeeManagment.Web.Pages
 
         public List<Department> Departments { get; set; } = new List<Department>();
         
-        public string DepartmentId { get; set; }
+        //public Guid DepartmentId { get; set; }
         
         [Parameter]
         public string Id { get; set; }
@@ -28,7 +29,8 @@ namespace EmployeeManagment.Web.Pages
         {
             Employee =await EmployeeService.GetEmployee(int.Parse(Id));
             Departments = (await DepartmentService.GetDepartments()).ToList();
-            DepartmentId = Employee.DepartmentId.ToString();
+            //DepartmentId = Employee.DepartmentId.ToString();
+            //DepartmentId = Guid.NewGuid();
         }
     }
 }
