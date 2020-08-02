@@ -21,6 +21,9 @@
         "projectReferences": {
           "C:\\MyJavaProjects\\Blazor\\BlazorTutorial\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj": {
             "projectPath": "C:\\MyJavaProjects\\Blazor\\BlazorTutorial\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj"
+          },
+          "C:\\MyJavaProjects\\Blazor\\BlazorTutorial\\Venci.Components\\Venci.Components.csproj": {
+            "projectPath": "C:\\MyJavaProjects\\Blazor\\BlazorTutorial\\Venci.Components\\Venci.Components.csproj"
           }
         }
       }

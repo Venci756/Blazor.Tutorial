@@ -1,10 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement.Models", "EmployeeManagement.Models\EmployeeManagement.Models.csproj", "{F1D56966-601B-4CE5-A853-49303C2FCB0C}"
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagement.Models", "EmployeeManagement.Models\EmployeeManagement.Models.csproj", "{F1D56966-601B-4CE5-A853-49303C2FCB0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagment.Web", "EmployeeManagment.Web\EmployeeManagment.Web.csproj", "{8E9E832B-7D79-44C7-8E0B-2A1E448D5E7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagment.Web", "EmployeeManagment.Web\EmployeeManagment.Web.csproj", "{8E9E832B-7D79-44C7-8E0B-2A1E448D5E7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement.Api", "EmployeeManagement.Api\EmployeeManagement.Api.csproj", "{0D89C5B5-DB57-48A9-B2C5-56F50EF91FDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagement.Api", "EmployeeManagement.Api\EmployeeManagement.Api.csproj", "{0D89C5B5-DB57-48A9-B2C5-56F50EF91FDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Venci.Components", "Venci.Components\Venci.Components.csproj", "{62E3203C-C6C7-43B0-9249-1D3339437690}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,5 +29,15 @@ Global
 		{0D89C5B5-DB57-48A9-B2C5-56F50EF91FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D89C5B5-DB57-48A9-B2C5-56F50EF91FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D89C5B5-DB57-48A9-B2C5-56F50EF91FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62E3203C-C6C7-43B0-9249-1D3339437690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E3203C-C6C7-43B0-9249-1D3339437690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E3203C-C6C7-43B0-9249-1D3339437690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E3203C-C6C7-43B0-9249-1D3339437690}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AB0830F-3E2F-4F4E-B486-C260B387A7A7}
 	EndGlobalSection
 EndGlobal

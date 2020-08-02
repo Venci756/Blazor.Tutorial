@@ -6,6 +6,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\EmployeeManagement.Models\EmployeeManagement.Models.csproj" />
+      <ProjectReference Include="..\Venci.Components\Venci.Components.csproj" />
     </ItemGroup>
 
     <ItemGroup>

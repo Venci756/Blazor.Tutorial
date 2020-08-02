@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.AspNetCore.Components.Forms;
 
-namespace EmployeeManagment.Web.Pages
+namespace Venci.Components
 {
     public class CustomInputSelect<TValue> : InputSelect<TValue>
     {

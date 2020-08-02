@@ -59,3 +59,17 @@ C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\obj\Debug\netcorea
 C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\obj\Debug\netcoreapp3.1\Razor\Pages\DisplayEmployee.razor.g.cs
 C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditEmployee.razor.g.cs
 C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\obj\Debug\netcoreapp3.1\Razor\Pages\EditEmployee.razor.g.cs
+C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\bin\Debug\netcoreapp3.1\EmployeeManagment.Web.StaticWebAssets.xml
+C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\bin\Debug\netcoreapp3.1\Venci.Components.dll
+C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\bin\Debug\netcoreapp3.1\Venci.Components.pdb
