@@ -1,0 +1,25 @@
+﻿<input id="firstName" @attributes="InputAttributes" value="@Value"/>
+
+@code
+{
+    [Parameter]
+    public Dictionary<string,object> InputAttributes { get; set; } = 
+        new Dictionary<string, object>()
+        {
+            {"required","required"},
+            {"placeholder","Child Component Placeholder"},
+            {"size","100"},
+            {"maxLength","15"}
+        };
+    [Parameter]
+    public string Value { get; set; } = "Child Value";
+    // [Parameter]
+    // public string Required { get; set; } = "required";
+    //
+    // [Parameter]
+    // public string MaxLength { get; set; } = "15";
+    // [Parameter]
+    // public string Size { get; set; } = "25";
+    // [Parameter]
+    // public string Placeholder { get; set; } = "Child Component Placeholder";
+}
