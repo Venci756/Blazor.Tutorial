@@ -73,3 +73,6 @@ C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\bin\Debug\netcorea
 C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
 C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\bin\Debug\netcoreapp3.1\Venci.Components.dll
 C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\bin\Debug\netcoreapp3.1\Venci.Components.pdb
+C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\MyJavaProjects\Blazor\BlazorTutorial\EmployeeManagment.Web\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
