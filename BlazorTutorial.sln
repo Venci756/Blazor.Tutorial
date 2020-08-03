@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagment.Web", "Em
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagement.Api", "EmployeeManagement.Api\EmployeeManagement.Api.csproj", "{0D89C5B5-DB57-48A9-B2C5-56F50EF91FDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Venci.Components", "Venci.Components\Venci.Components.csproj", "{62E3203C-C6C7-43B0-9249-1D3339437690}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Venci.Components", "Venci.Components\Venci.Components.csproj", "{62E3203C-C6C7-43B0-9249-1D3339437690}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

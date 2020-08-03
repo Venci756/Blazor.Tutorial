@@ -19,3 +19,5 @@ C:\MyJavaProjects\Blazor\BlazorTutorial\Venci.Components\obj\Debug\netstandard2.
 C:\MyJavaProjects\Blazor\BlazorTutorial\Venci.Components\obj\Debug\netstandard2.0\staticwebassets\Venci.Components.StaticWebAssets.xml
 C:\MyJavaProjects\Blazor\BlazorTutorial\Venci.Components\obj\Debug\netstandard2.0\Venci.Components.dll
 C:\MyJavaProjects\Blazor\BlazorTutorial\Venci.Components\obj\Debug\netstandard2.0\Venci.Components.pdb
+C:\MyJavaProjects\Blazor\BlazorTutorial\Venci.Components\obj\Debug\netstandard2.0\RazorDeclaration\Confirm.razor.g.cs
+C:\MyJavaProjects\Blazor\BlazorTutorial\Venci.Components\obj\Debug\netstandard2.0\Razor\Confirm.razor.g.cs
